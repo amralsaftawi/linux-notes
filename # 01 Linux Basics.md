@@ -638,6 +638,7 @@ ip       → inspect/manage networking
 man      → read command manual
 type -a  → see how a command is resolved
 sudo     → execute command with elevated privileges
+file     → Know Type of file
 ```
 
 ## Essential Linux Symbols
